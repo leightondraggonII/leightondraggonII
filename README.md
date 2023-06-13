@@ -7,6 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/leightondraggonII/osticket-postinstallconfig)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/leightondraggonII/osticket-lifecycle)
 - <b>Microsoft Azure</b>
+  - [How to create a Virtual Machine with Microsoft Azure](https://github.com/leightondraggonII/Microsoft-Azure-Virtual-Machine-Creation-and-Connection)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/leightondraggonII/AzureVM-ActiveDirectoryConfig)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/leightondraggonII/AzureVM-NetworkSecurityGroups-Traffic)
 
