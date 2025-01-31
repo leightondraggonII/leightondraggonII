@@ -8,5 +8,4 @@
   - [How to create a Virtual Machine with Microsoft Azure](https://github.com/leightondraggonII/Microsoft-Azure-Virtual-Machine-Creation-and-Connection)
  
 <h2>🤳Connect with me:</h2>
-
 [linkedin]: [www.linkedin.com/in/leighton-draggon-ii-79848aa5](https://www.linkedin.com/in/leighton-draggon-ii-79848aa5/)
